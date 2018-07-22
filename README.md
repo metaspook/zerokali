@@ -1,5 +1,8 @@
 # ZeroKali
-Kali Linux Tweaker
+Kali Linux Tweaker, Post installation script.
+
+### Screenshot:
+![Alt text](/../screenshots/zerokali_screenshot_20180722_02.jpg?raw=true)
 
 ### Introduction:
 * Post installation tasks.
@@ -7,7 +10,6 @@ Kali Linux Tweaker
 * VirtualBox/VMWare Tools installation.
 * Kali Linux Tweaking.
 * Other fixes and features.
-
 
 ### Instruction:
 * Open terminal
