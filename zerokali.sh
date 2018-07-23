@@ -1,5 +1,6 @@
 #!/bin/sh
-# Kali Post Installation Script
+# ZeroKali
+# Kali Linux Tweaker and Post Installation Script
 # Version: 1.0
 # Written by Metaspook
 # Copyright (c) 2018 Metaspook.
@@ -44,7 +45,7 @@ $TS   /     // __ \_  __ \/  _ \\$TY|      < \__  \ |  | |  |
 $TS  /     /\  ___/|  | \(  <_> $TY)    |  \ / __ \|  |_|  |
 $TS /_______ \___  >__|   \____/$TY|____|__ (____  /____/__|
 $TS         \/   \/             $TY     \/    \/         $TRT
-$TD  Kali Linux Tweaker                     Version: 1.0 Beta 2
+$TD  Kali Linux Tweaker                     Version: 1.0
   by Metaspook $TRT
 "
 }
