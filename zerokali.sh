@@ -110,7 +110,10 @@ sleep 3
 }
 fnkalitweaks(){
 fnbanner
-
+#apt-get install gnome-tweak-tool
+#apt-get install tor
+#apt-get install filezilla filezilla-common
+#apt-get install qbittorrent
 echo "[!] Underconstruction :("
 sleep 3
 }
