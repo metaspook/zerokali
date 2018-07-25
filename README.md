@@ -1,5 +1,5 @@
 # ZeroKali
-Kali Linux Tweaker, Post installation script.
+Linux Post Installation Tweaker (Kali specialized).
 
 ### Screenshot:
 ![Alt text](/../screenshots/zerokali_screenshot_20180722_02.jpg?raw=true)
