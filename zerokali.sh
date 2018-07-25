@@ -1,6 +1,6 @@
 #!/bin/sh
 # ZeroKali
-# Kali Linux Tweaker and Post Installation Script
+# Linux Post Installation Tweaker
 # Version: 1.0
 # Written by Metaspook
 # Copyright (c) 2018 Metaspook.
@@ -45,8 +45,8 @@ $TS   /     // __ \_  __ \/  _ \\$TY|      < \__  \ |  | |  |
 $TS  /     /\  ___/|  | \(  <_> $TY)    |  \ / __ \|  |_|  |
 $TS /_______ \___  >__|   \____/$TY|____|__ (____  /____/__|
 $TS         \/   \/             $TY     \/    \/         $TRT
-$TD  Kali Linux Tweaker                     Version: 1.0
-  by Metaspook $TRT
+$TD  Linux Post Installation Tweaker (Kali specialized).
+  by Metaspook                           Version: 1.0 $TRT
 "
 }
 fnaptcleaner(){
@@ -110,6 +110,7 @@ sleep 3
 }
 fnkalitweaks(){
 fnbanner
+
 echo "[!] Underconstruction :("
 sleep 3
 }
@@ -117,11 +118,12 @@ sleep 3
 fnzkusage(){
 fnbanner
 echo -n "
- 1. Update Kali.
+ 1. Update System.
  2. System Info.
- 3. Kali Tweaks
+ 3. Clean, Tweaks, Fixes.
  4. apt-get Cleaner/Fixer.
- 5. VBox/VM Tools.
+ 5. VirtualBox / VMware Tools.
+ 6. 
  0. Exit
  
 Enter Option: "
